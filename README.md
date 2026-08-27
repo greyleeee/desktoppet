@@ -11,6 +11,9 @@ cd /Users/fancy/Documents/Codex/2026-08-24/hatch-pet-users-fancy-codex-skills/ou
 python3 slice_assets.py
 python3 desktop_cat.py
 ```
+macOS用户可直接在页面右侧【Releases】中下载已编译好的APP
+win版本待更新
+
 
 ## 操作
 
