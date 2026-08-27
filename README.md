@@ -5,6 +5,12 @@
 <img width="339" height="288" alt="截屏2026-08-27 13 50 15" src="https://github.com/user-attachments/assets/2f06a1c5-e369-4ba7-a35c-7cf6693e22de" />
 
 
+## 环境要求
+
+- Python 3.10+
+- macOS
+
+
 ## 运行
 
 在终端仓库根运行：
