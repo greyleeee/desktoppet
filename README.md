@@ -10,7 +10,7 @@
 在终端运行：
 
 ```sh
-cd 【克隆仓库地址】/desktop-cat-pet
+cd 【克隆仓库地址】/desktoppet
 python3 slice_assets.py
 python3 desktop_cat.py
 ```
