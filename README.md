@@ -12,6 +12,7 @@ python3 slice_assets.py
 python3 desktop_cat.py
 ```
 macOS用户可直接在页面右侧【Releases】中下载已编译好的APP
+
 win版本待更新
 
 
