@@ -7,7 +7,7 @@
 
 ## 运行
 
-双击 `run.command`，或在终端运行：
+在终端运行：
 
 ```sh
 cd 【克隆仓库地址】/desktop-cat-pet
