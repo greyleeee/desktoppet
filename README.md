@@ -10,7 +10,7 @@
 双击 `run.command`，或在终端运行：
 
 ```sh
-cd /Users/fancy/Documents/Codex/2026-08-24/hatch-pet-users-fancy-codex-skills/outputs/desktop-cat-pet
+cd 【克隆仓库地址】/desktop-cat-pet
 python3 slice_assets.py
 python3 desktop_cat.py
 ```
