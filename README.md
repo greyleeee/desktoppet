@@ -2,6 +2,9 @@
 
 一个不依赖 Codex 的 macOS 透明桌面宠物原型。初始作者为 @617，已获全量授权！
 
+<img width="339" height="288" alt="截屏2026-08-27 13 50 15" src="https://github.com/user-attachments/assets/2f06a1c5-e369-4ba7-a35c-7cf6693e22de" />
+
+
 ## 运行
 
 双击 `run.command`，或在终端运行：
